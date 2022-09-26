@@ -1,0 +1,23 @@
+body { background-color: lightblue; color: black; 
+		background-image: linear-gradient(to bottom, #FFFFFF, darkblue);
+		background-size: 300%;
+		text-align: center;
+		}
+h1 {text-align: center;}
+nav {text-align: center;}
+
+footer { font-style: italic; 
+		width: 30%;
+		margin-right: auto;
+		margin-left: auto; 
+	}
+
+h2 {text-shadow: 3px 3px 3px #676767;
+	margin-left: auto;
+	margin-right: auto;
+	width: 25%;}
+
+.wrapper { width: 1500px;
+	margin-right: auto;
+	margin-left: auto;
+}
