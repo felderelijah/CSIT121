@@ -39,6 +39,10 @@ nav a:visited {
   color: #ffffff;
 }
 
+nav a:active {
+  color: #ffffff;
+}
+
 nav li {
   display: inline-block;
   margin-right: 15px;
