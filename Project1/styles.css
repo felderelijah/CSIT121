@@ -39,8 +39,8 @@ nav a:visited {
   color: #ffffff;
 }
 
-nav a:active {
-  color: #ffffff;
+nav a:hover {
+  color: #cccccc;
 }
 
 nav li {
