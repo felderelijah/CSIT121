@@ -1,0 +1,121 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background-color: #ffccff;
+  background-image: url(images/Unknown.png);
+  background-repeat: repeat-y;
+  background-size: 125px;
+}
+
+header {
+  text-align: center;
+  color: #cc00cc;
+}
+
+h1 {
+  text-transform: uppercase;
+  background-color: #cc99cc;
+  padding: 50px;
+  margin: 0;
+  border-style: none;
+}
+
+h2 {
+  text-transform: capitalize;
+  background-color: #ffcc88;
+  padding: 20px;
+  margin: 0 0 15px 0;
+  background: linear-gradient(to left, #FFFF99, #ffcc88)
+}
+
+h3 {
+  text-decoration: underline;
+  text-transform: uppercase;
+}
+
+.ing {
+  color: blueviolet;
+  line-height: 25px;
+  text-transform: uppercase;
+  font-weight: 100;
+  float: left;
+  width: 390px;
+  height: 502px;
+  background-color: tan;
+}
+
+.ing2 {
+  color: blueviolet;
+  line-height: 25px;
+  margin-left: 400px;
+  background-color: lightblue;
+  height: 500px;
+  padding: 1px;
+}
+
+footer {
+  background-color: lightgreen;
+  color: blueviolet;
+  height: 100%;
+}
+
+a {
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+a:link {
+  color: #cc00cc;
+}
+
+a:visited {
+  color: gray;
+}
+
+a:hover {
+  color: white;
+}
+
+p {
+  text-align: center;
+  line-height: 25px;
+}
+
+/* The opacity level is meant to make the flatbread sandwich to look faded and blend into the background */
+#taco {
+  float: right;
+  opacity: 0.7;
+}
+
+#wrapper {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+table {
+  text-transform: capitalize;
+  background-color: white;
+  color: #000000;
+  border: 1px solid #cc00cc;
+  padding: 10px;
+  box-shadow: 0 0 10px;
+  font-family: monospace;
+  }
+
+th {
+  text-align: left;
+}
+
+.small {
+  font-size: 0.5em;
+}
+
+.feed {
+  text-indent: 5px;
+  color: blueviolet;
+}
+
+#mini {
+  padding: 10px;
+}
